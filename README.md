@@ -6,3 +6,4 @@
 Note that the project need to add the libraries 'jdom-1.1.3' and 'JGameGrid' to run.
 Here is the project file structure:
 
+![FileStructure](https://github.com/FionaZZhang/Pacman/blob/main/File%20Structure.png)
